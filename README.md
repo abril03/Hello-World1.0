@@ -2,4 +2,5 @@
 Tercer repositorio
 Hello guys
 
-I am april, I love the color red, I love animals, my favorite foot is the grass, i love rainy days and poems
+Soy abril, me encanta el color rojo, me encantan los animales, mi pie favorito es la hierba, me encantan los días lluviosos y los poemas
+Estoy muy feliz
